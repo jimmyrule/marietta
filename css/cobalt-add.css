@@ -201,7 +201,7 @@ table { margin-top: 1.5rem}
 
 .idx-login-img {
   height: 100vh;
-  background-image: url(/assets/images/bg.jpg);
+  background-image: url(/assets/images/bg-1.jpg);
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.3);
   background-blend-mode: color;
